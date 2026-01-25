@@ -22,6 +22,7 @@
 
 /* Hero Section */
 .hero {
+  padding-top: 4rem;
   text-align: center;
   animation: fadeIn 1s ease-out;
 }

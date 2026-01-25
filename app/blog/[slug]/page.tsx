@@ -1,5 +1,5 @@
 import { getAllPostSlugs, getPostData } from "@/lib/markdown";
-import styles from "../../page.module.css"; // Reuse existing style or create new
+import styles from "./page.module.css"; // Reuse existing style or create new
 
 // SSG: Generate paths for all blog posts
 export async function generateStaticParams() {
